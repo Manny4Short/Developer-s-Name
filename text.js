@@ -34,4 +34,7 @@ server.get('/answer', (req, res) =>{
     res.send('Surely youre lost!')
 })
 
-server.listen(3000);
+let port = process.env.PORT || 3000
+server.listen(port , () => {
+    console.log(`server started at port: ${port}`)
+});
