@@ -1,0 +1,23 @@
+{
+  "name": "emmanuel",
+  "version": "1.0.0",
+  "description": "guess the developer's name",
+  "main": "text.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobotFights/Developer-s-Name.git"
+  },
+  "author": "emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobotFights/Developer-s-Name/issues"
+  },
+  "homepage": "https://github.com/RobotFights/Developer-s-Name#readme"
+}
